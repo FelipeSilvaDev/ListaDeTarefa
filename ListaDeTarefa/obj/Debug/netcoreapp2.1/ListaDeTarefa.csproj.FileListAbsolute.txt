@@ -34,3 +34,4 @@ C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.dl
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.pdb
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.genruntimeconfig.cache
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeT.046239AD.Up2Date
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.sourcelink.json
