@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\ListaDeTarefa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Program.cs",
+              "RelativeDocumentMoniker": "ListaDeTarefa\\Program.cs",
+              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Program.cs",
+              "RelativeToolTip": "ListaDeTarefa\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T14:41:00.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
