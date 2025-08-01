@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("ListaDeTarefa")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5144db40bf3270d0e75236a537d1c81f69b9fda3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+27e2d9c5e0b2aff740079933e2ae4c0a332169b7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ListaDeTarefa.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
