@@ -35,3 +35,8 @@ C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.pd
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.genruntimeconfig.cache
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeT.046239AD.Up2Date
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\ListaDeTarefa.sourcelink.json
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Create.cshtml.g.cs
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Delete.cshtml.g.cs
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Details.cshtml.g.cs
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Edit.cshtml.g.cs
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Index.cshtml.g.cs
