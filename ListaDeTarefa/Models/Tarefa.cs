@@ -9,7 +9,7 @@ namespace ListaTarefas.Models
 
         [Required(ErrorMessage = "O título é obrigatório.")]
         public string Titulo { get; set; }
-
+        public string Descricao { get; set; }
         public bool Concluida { get; set; }
 
         [DataType(DataType.Date)]

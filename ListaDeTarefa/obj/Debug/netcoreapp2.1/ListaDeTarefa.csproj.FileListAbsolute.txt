@@ -40,3 +40,4 @@ C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tare
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Details.cshtml.g.cs
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Edit.cshtml.g.cs
 C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Index.cshtml.g.cs
+C:\Projetos\ListaDeTarefa\ListaDeTarefa\obj\Debug\netcoreapp2.1\Razor\Views\Tarefas\Historico.cshtml.g.cs

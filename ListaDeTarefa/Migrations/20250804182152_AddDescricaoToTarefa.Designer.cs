@@ -3,14 +3,16 @@ using System;
 using ListaTarefas.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace ListaDeTarefa.Migrations
 {
     [DbContext(typeof(ListaDeTarefaContext))]
-    partial class ListaDeTarefaContextModelSnapshot : ModelSnapshot
+    [Migration("20250804182152_AddDescricaoToTarefa")]
+    partial class AddDescricaoToTarefa
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

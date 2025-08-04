@@ -125,6 +125,16 @@ namespace ListaTarefas.Controllers
         {
             return _context.Tarefas.Any(e => e.Id == id);
         }
+
+        public async Task<IActionResult> Historico()
+        {
+            var historico = await _context.Tarefas
+                .Where(t => t.Concluida)
+                .OrderByDescending(t => t.DataCriacao)
+                .ToListAsync();
+
+            return View(historico);
+        }
     }
 }
 

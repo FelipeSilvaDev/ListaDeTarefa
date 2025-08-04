@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Projetos\\ListaDeTarefa\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\migrations\\20250804182152_adddescricaototarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\migrations\\20250804182152_adddescricaototarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\views\\tarefas\\historico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\views\\tarefas\\historico.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -17,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\views\\tarefas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\views\\tarefas\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\controllers\\tarefascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\views\\tarefas\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,10 +67,6 @@
       "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\data\\listadetarefacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\models\\tarefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|c:\\projetos\\listadetarefa\\listadetarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97B9D9ED-4202-403B-99E7-D3A2D3E01D29}|ListaDeTarefa\\ListaDeTarefa.csproj|solutionrelative:listadetarefa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -70,11 +78,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "20250804182152_AddDescricaoToTarefa.cs",
+              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Migrations\\20250804182152_AddDescricaoToTarefa.cs",
+              "RelativeDocumentMoniker": "ListaDeTarefa\\Migrations\\20250804182152_AddDescricaoToTarefa.cs",
+              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Migrations\\20250804182152_AddDescricaoToTarefa.cs",
+              "RelativeToolTip": "ListaDeTarefa\\Migrations\\20250804182152_AddDescricaoToTarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T18:21:52.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Home\\Index.cshtml",
@@ -87,33 +108,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "bootstrap.css",
-              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeDocumentMoniker": "ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "RelativeToolTip": "ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-01T19:00:08.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ListaDeTarefa\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAkAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-01T18:45:40.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Details.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Details.cshtml",
@@ -125,7 +133,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Delete.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Delete.cshtml",
@@ -133,12 +141,11 @@
               "RelativeToolTip": "ListaDeTarefa\\Views\\Tarefas\\Delete.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-01T18:45:02.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-01T18:45:02.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Edit.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Edit.cshtml",
@@ -150,7 +157,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Create.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Create.cshtml",
@@ -162,7 +169,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Index.cshtml",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Index.cshtml",
@@ -174,19 +181,58 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarefa.cs",
+              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Models\\Tarefa.cs",
+              "RelativeDocumentMoniker": "ListaDeTarefa\\Models\\Tarefa.cs",
+              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Models\\Tarefa.cs",
+              "RelativeToolTip": "ListaDeTarefa\\Models\\Tarefa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T17:06:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Historico.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Historico.cshtml",
+              "RelativeDocumentMoniker": "ListaDeTarefa\\Views\\Tarefas\\Historico.cshtml",
+              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Views\\Tarefas\\Historico.cshtml",
+              "RelativeToolTip": "ListaDeTarefa\\Views\\Tarefas\\Historico.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAApwBwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-04T18:18:05.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "ListaDeTarefa\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-01T19:00:08.959Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "TarefasController.cs",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Controllers\\TarefasController.cs",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Controllers\\TarefasController.cs",
               "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Controllers\\TarefasController.cs",
               "RelativeToolTip": "ListaDeTarefa\\Controllers\\TarefasController.cs",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAYwIAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAAwIkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:33:25.246Z"
+              "WhenOpened": "2025-07-31T17:33:25.246Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "20250731173010_Initial.cs",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Migrations\\20250731173010_Initial.cs",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Migrations\\20250731173010_Initial.cs",
@@ -198,7 +244,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Startup.cs",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Startup.cs",
@@ -210,7 +256,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\appsettings.json",
               "RelativeDocumentMoniker": "ListaDeTarefa\\appsettings.json",
@@ -222,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "ListaDeTarefaContext.cs",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Data\\ListaDeTarefaContext.cs",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Data\\ListaDeTarefaContext.cs",
@@ -234,19 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Tarefa.cs",
-              "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Models\\Tarefa.cs",
-              "RelativeDocumentMoniker": "ListaDeTarefa\\Models\\Tarefa.cs",
-              "ToolTip": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Models\\Tarefa.cs",
-              "RelativeToolTip": "ListaDeTarefa\\Models\\Tarefa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-31T17:06:51.743Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\ListaDeTarefa\\ListaDeTarefa\\Program.cs",
               "RelativeDocumentMoniker": "ListaDeTarefa\\Program.cs",

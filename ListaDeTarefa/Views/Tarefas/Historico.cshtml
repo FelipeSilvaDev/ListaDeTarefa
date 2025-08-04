@@ -1,0 +1,38 @@
+﻿@model IEnumerable<ListaTarefas.Models.Tarefa>
+@{
+    ViewData["Title"] = "Histórico de Tarefas";
+}
+
+<div class="container">
+    <h2 class="mb-4">Histórico de Tarefas Concluídas</h2>
+
+    @if (!Model.Any())
+    {
+        <div class="alert alert-info">Nenhuma tarefa concluída até o momento.</div>
+    }
+    else
+    {
+        <table class="table table-bordered table-striped">
+            <thead class="table-light">
+                <tr>
+                    <th>Título</th>
+                    <th>Descrição</th>
+                    <th>Data de Criação</th>
+                    <th>Status</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var tarefa in Model)
+                {
+                    <tr>
+                        <td>@tarefa.Titulo</td>
+                        <td>@tarefa.Descricao</td>
+                        <td>@tarefa.DataCriacao.ToString("dd/MM/yyyy")</td>
+                        <td><span class="badge bg-success">Concluída</span></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+</div>
+
